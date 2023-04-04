@@ -39,7 +39,7 @@ print(rank)
 ```
 ## Output:
 
-![Screenshot (2)](https://user-images.githubusercontent.com/119476243/229770251-69ba1bbf-34d4-4203-916c-be87a0ac84b1.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/119476243/229771370-89304e5e-227a-4d3e-88a4-45749252ac67.png)
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
