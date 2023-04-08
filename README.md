@@ -39,8 +39,7 @@ print(rank)
 ```
 ## Output:
 
-[1b maths prem.pdf](https://github.com/premkumarkarthikeyan/RANK-OF-A-MATRIX/files/11183493/1b.maths.prem.pdf)
-
+[1b maths.pdf](https://github.com/premkumarkarthikeyan/RANK-OF-A-MATRIX/files/11183501/1b.maths.pdf)
 
 
 ## Result:
