@@ -19,9 +19,9 @@ Import the numpy module to use the built-in functions for calculation
 
 Get the input matrix from the user
 
-Step 3:
+### Step 3:
 
-### Step 3: Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
+Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 
 ### Step 4:
 
