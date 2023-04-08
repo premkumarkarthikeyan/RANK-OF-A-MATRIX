@@ -39,7 +39,9 @@ print(rank)
 ```
 ## Output:
 
-![Screenshot (3)](https://user-images.githubusercontent.com/119476243/229771370-89304e5e-227a-4d3e-88a4-45749252ac67.png)
+[1b maths prem.pdf](https://github.com/premkumarkarthikeyan/RANK-OF-A-MATRIX/files/11183493/1b.maths.prem.pdf)
+
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
